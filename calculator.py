@@ -1,20 +1,3 @@
-"""
-╔══════════════════════════════════════════════════════╗
-║         NEON CALC  —  Advanced Scientific Calculator ║
-║         Built with Pygame  |  Hackathon Edition      ║
-╚══════════════════════════════════════════════════════╝
-
-Features:
-  - Full scientific calculator (sin, cos, tan, log, sqrt, etc.)
-  - History panel with scrollable past expressions
-  - Memory bank (M+, M-, MR, MC)
-  - Degree / Radian toggle
-  - Real-time expression parser with error handling
-  - Animated button press ripple effects
-  - Keyboard input (numbers, operators, Enter, Backspace, Escape)
-  - Live expression evaluation preview
-  - Neon cyberpunk dark-mode aesthetic
-"""
 
 import pygame
 import sys
