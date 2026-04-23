@@ -1,48 +1,13 @@
 # Calculator--Python-
-A scientific calculator made with Python and Pygame with a cool interface and effects. Use this calculator to answer any questions. 
 
+This scientific calculator is built using Python and Pygame. It features a clean graphical interface with real-time effects when buttons are pressed, making it more interactive. You can perform basic operations like addition, subtraction, multiplication, and division, along with scientific functions such as sine, cosine, square roots and powers. It also supports both keyboard and mouse input, allowing you to enter values with your keyboard. This calculator is designed to help solve a wide range of math problems efficiently.
 
-
-✨ Features
-
-Basic operations: addition, subtraction, multiplication, division
-Scientific functions (e.g., sin, cos, tan, square root, powers)
-Interactive button animations and click effects
-Smooth UI transitions
-Real-time input and output display
-Keyboard and/or mouse support (if implemented)
-
-🛠️ Technologies Used
-Python 3
-Pygame (for graphics, animations, and input handling)
-
-🚀 How to Run
-
-Make sure Python is installed on your computer.
-Install Pygame if you don’t already have it:
-
-pip install pygame
-
-Navigate to the project folder:
-
-cd scientific-calculator
-Run the program:
-
-python main.py
-
-🎨 UI & Effects
-
-Buttons respond visually when clicked
-Smooth transitions between inputs
-Clean and modern calculator layout
-Designed to improve user experience beyond a standard calculator
-
-🧠 What I Learned
+Here are a few things this project taught me:
 
 Designing interactive user interfaces with Pygame
-Implementing mathematical and scientific functions
+Using math and scientific functions
 Creating smooth animations and transitions
-Handling user input efficiently
-Structuring a medium-sized Python project
+Handling user input
+
 
 Developed by Manav Parikh
